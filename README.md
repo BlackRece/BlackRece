@@ -2,7 +2,7 @@
 I make games.
 
 ## Experiment
-<canvas id="animationCanvas" width="400" height="200"></canvas>
+<iframe src="https://example.com/space-invaders-game" width="800" height="600"></iframe>
 
 <script>
 const canvas = document.getElementById('animationCanvas');
