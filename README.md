@@ -2,7 +2,7 @@
 I make games.
 
 ## I like to code:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrece)](https://github.com/blackrece/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrece&theme=dark#gh-dark-mode-only)](https://github.com/blackrece/)
 
 <!--
 **BlackRece/BlackRece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
