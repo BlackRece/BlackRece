@@ -1,26 +1,9 @@
 ### Hi there 👋
 I make games.
 
-## Experiment
-<canvas id="gameCanvas" width="800" height="600"></canvas>
+## I like to code:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<script>
-const canvas = document.getElementById('animationCanvas');
-const context = canvas.getContext('2d');
-let x = 0;
-
-function animate() {
-  context.clearRect(0, 0, canvas.width, canvas.height);
-  context.fillRect(x, 80, 50, 50);
-  x += 1;
-  if (x > canvas.width) {
-    x = 0;
-  }
-  requestAnimationFrame(animate);
-}
-
-animate();
-</script>
 <!--
 **BlackRece/BlackRece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
