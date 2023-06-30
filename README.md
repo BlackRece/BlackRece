@@ -1,9 +1,12 @@
 ### Hi there 👋
 I make games.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/blackrece/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/BlackRece)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
+
+Team Projects: [![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
+
+Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/blackrece/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/BlackRece)
 
 ## I like to code:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrece&theme=bear&langs_count=3)](https://github.com/blackrece/)
