@@ -1,14 +1,16 @@
-### Hi there 👋
+# Hi Gamer 👋
 I make games.
+I'm Maurice Thompson-Hamilton (aka. BlackRece), a passionate game developer with a strong background in coding and a love for creating engaging gaming experiences, specialising in game mechanics. I thrive in collaborative team environments and always strive to push the boundaries of what's possible in game development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
+## Web-folio
+[![Web-folio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
 
-# Team Projects: 
+## Team Projects: 
 [![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
 [![GitHub repository](https://img.shields.io/badge/GitHub-TGPGame-blue.svg?style=flat-square&logo=github)](https://github.com/code-damage/TGPGame)
 
 
-# Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/blackrece/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/BlackRece)
 
