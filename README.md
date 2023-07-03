@@ -3,9 +3,13 @@ I make games.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
 
-Team Projects: [![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
+# Team Projects: 
+[![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
+[![GitHub repository](https://img.shields.io/badge/GitHub-TGPGame-blue.svg?style=flat-square&logo=github)](https://github.com/code-damage/TGPGame)
 
-Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/blackrece/)
+
+# Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/blackrece/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/BlackRece)
 
 ## I like to code:
