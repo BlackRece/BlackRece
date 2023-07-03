@@ -1,13 +1,20 @@
 # Hi Gamer 👋
-I make games.
-I'm Maurice Thompson-Hamilton (aka. BlackRece), a passionate game developer with a strong background in coding and a love for creating engaging gaming experiences, specialising in game mechanics. I thrive in collaborative team environments and always strive to push the boundaries of what's possible in game development.
+I make games. Visit my Web-folio: [![Web-folio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
 
-## Web-folio
-[![Web-folio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen)](http://www.blackrece.co.uk)
+I'm **Maurice Thompson-Hamilton** (aka. BlackRece), a passionate game developer with a strong background in coding and a love for creating engaging gaming experiences, specialising in game mechanics. I thrive in collaborative team environments and always strive to push the boundaries of what's possible in game development.
+
 
 ## Team Projects: 
-[![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
-[![GitHub repository](https://img.shields.io/badge/GitHub-TGPGame-blue.svg?style=flat-square&logo=github)](https://github.com/code-damage/TGPGame)
+Here are some of the projects that I have worked on within a team:
+### Nine-Byte-Warriors [![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
+The C++ game engine, Roche, with an Antomicrops-inspired game called Midnight Harvest where my skills were put to work.
+The tools that I created include:
+- A projectile pattern tool that facilitated the creation of bullet-hell type projectile patterns.
+- A artificial intelligence tool that furnished entities with steering behaviours, player tracking and shootting projectiles.
+
+### CodeDamage
+Dragn'tor is a Unity tower defence game created in the second year of study at Staffordshire University, where I developed a procedurally generated terrain using perlin noise to randomise terrain features such as hills and valleys for AI controlled entities to traverse. I created enemies, towers and terrain tiles in a 3D modeling app and used Unity's navmesh to enable enemies to path around the generated map.
+[![CodeDamage](https://img.shields.io/badge/GitHub-TGPGame-blue.svg?style=flat-square&logo=github)](https://github.com/code-damage/TGPGame)
 
 
 ## Socials:
