@@ -6,7 +6,7 @@ I'm **Maurice Thompson-Hamilton** (aka. BlackRece), a passionate game developer 
 ## Current Projects:
 Here are some of the projects that I am currently working on:
 ### SwarmKilla: 
-[![SwarmKilla](https://img.shields.io/badge/SwarmKilla-RefactaMasta-blue)](https://github.com/BlackRece/RefactaMasta)
+[![SwarmKilla](https://img.shields.io/badge/GitHub-RefactaMasta-blue)](https://github.com/BlackRece/RefactaMasta)
 [![Build Status](https://github.com/BlackRece/RefactaMasta/workflows/Build/badge.svg?branch=main)](https://github.com/BlackRece/RefactaMasta/actions)
 
 This is a flocking birds simulation that is being refactored and fleshed out into an interactive demo. This will showcase the following:
@@ -31,18 +31,3 @@ Dragn'tor is a Unity tower defence game created in the second year of study at S
 
 ## I like to code:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrece&theme=bear&langs_count=3)](https://github.com/blackrece/)
-
-<!--
-**BlackRece/BlackRece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
