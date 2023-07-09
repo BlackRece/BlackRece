@@ -1,4 +1,4 @@
-# 👋 Hi Gamer! I'm **Maurice Thompson-Hamilton** (aka. BlackRece)
+# 👋 Hi Gamer! I'm **Maurice Thompson-Hamilton**
 I'm a passionate Game Developer with experience creating engaging gaming experiences. I specialize in game mechanics and have worked on a variety of projects spanning industries such as automotive manufacturing, theatrical entertainment and mobile games.
 
 ## Skills and Expertise
