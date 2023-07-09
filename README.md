@@ -11,6 +11,11 @@ This is a flocking birds simulation that is being refactored and fleshed out int
 - Graphics: use of DirectX 11 to facilitate the graphics pipeline, rendering to the window, manipulations of transforms, management of buffers, etc
 - Autonomous Agents: use of Steering Behaviours to control the movement of entities in the game in a predictable manner as a means for enemy movement
 
+#### Status:
+| Commit | Message |
+|--------|---------|
+$(git log -n 3 --format="| [%h](https://github.com/BlackRece/RefactaMasta/commit/%H) | %s |")
+
 ## Team Projects: 
 Here are some of the projects that I have worked on within a team:
 ### Nine-Byte-Warriors: [![Nine-Byte-Warriors](https://img.shields.io/badge/GitHub-Nine--Byte--Warriors-black?logo=github)](https://github.com/Nine-Byte-Warriors)
