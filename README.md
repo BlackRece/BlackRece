@@ -44,7 +44,9 @@ I'm seeking a challenging role that will allow me to utilize my skills in game d
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/BlackRece)
 
 Connet with me to stay up-to-date on my latest projects and interests.
+
 Thank you for considering my profile. I look forward to hearing from you!
 
 ## I like to code:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrece&theme=bear&langs_count=5&hide=shaderlab)](https://github.com/blackrece/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrece&theme=bear&langs_count=7&hide=CMake,HLSL,GLSL,shaderlab)](https://github.com/blackrece/)
