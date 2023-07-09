@@ -42,6 +42,7 @@ I'm seeking a challenging role that will allow me to utilize my skills in game d
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/blackrece/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/BlackRece)
+
 Connet with me to stay up-to-date on my latest projects and interests.
 Thank you for considering my profile. I look forward to hearing from you!
 
