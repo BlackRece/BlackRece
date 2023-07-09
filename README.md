@@ -14,7 +14,8 @@ This is a flocking birds simulation that is being refactored and fleshed out int
 #### Status:
 | Commit | Message |
 |--------|---------|
-$(git log -n 3 --format="| [%h](https://github.com/BlackRece/RefactaMasta/commit/%H) | %s |")
+$(git log -n 3 --format="| [%h]
+(https://github.com/BlackRece/RefactaMasta/commit/%H) | %s |")
 
 ## Team Projects: 
 Here are some of the projects that I have worked on within a team:
