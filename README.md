@@ -5,17 +5,14 @@ I'm **Maurice Thompson-Hamilton** (aka. BlackRece), a passionate game developer 
 
 ## Current Projects:
 Here are some of the projects that I am currently working on:
-### SwarmKilla: [![SwarmKilla](https://img.shields.io/badge/SwarmKilla-RefactaMasta-blue)](https://github.com/BlackRece/RefactaMasta)
+### SwarmKilla: 
+[![SwarmKilla](https://img.shields.io/badge/SwarmKilla-RefactaMasta-blue)](https://github.com/BlackRece/RefactaMasta)
+[![Build Status](https://travis-ci.com/BlackRece/RefactaMasta.svg?branch=main)](https://travis-ci.com/BlackRece/RefactaMasta)
+
 This is a flocking birds simulation that is being refactored and fleshed out into an interactive demo. This will showcase the following:
 - Windows: use of the Win32 api to create and manage a window, capturing and processing window/system message
 - Graphics: use of DirectX 11 to facilitate the graphics pipeline, rendering to the window, manipulations of transforms, management of buffers, etc
 - Autonomous Agents: use of Steering Behaviours to control the movement of entities in the game in a predictable manner as a means for enemy movement
-
-#### Status:
-| Commit | Message |
-|--------|---------|
-$(git log -n 3 --format="| [%h]
-(https://github.com/BlackRece/RefactaMasta/commit/%H) | %s |")
 
 ## Team Projects: 
 Here are some of the projects that I have worked on within a team:
